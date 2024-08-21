@@ -1,0 +1,46 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "namee": "rohit",
+      "email": "rohit@gmail.com",
+      "address": "Sehore"
+    },
+    {
+      "id": "2",
+      "namee": "rajat",
+      "email": "rajat@gmail.com",
+      "address": "Indore"
+    },
+    {
+      "id": "3",
+      "namee": "ronak",
+      "email": "ronak@gmail.com",
+      "address": "Rewa"
+    },
+    {
+      "id": "4",
+      "namee": "shivam",
+      "email": "shivam@gmail.com",
+      "address": "bhopal"
+    },
+    {
+      "id": "5",
+      "namee": "shreyansh",
+      "email": "shreyansh@gmail.com",
+      "address": "khandawa"
+    },
+    {
+      "id": "6",
+      "namee": "rajan",
+      "email": "rajan@gmail.com",
+      "address": "mujjafarnagar"
+    },
+    {
+      "id": "7",
+      "namee": "shivay",
+      "email": "shivay@gmail.com",
+      "address": "sidhi"
+    }
+  ]
+}
